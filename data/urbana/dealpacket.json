@@ -1,0 +1,1399 @@
+{
+  "skillVersion": "0.1.0",
+  "deal": "Urbana @ 39th",
+  "asset": {
+    "name": {
+      "value": "Urbana @ 39th",
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.1 cover",
+        "snippet": "URBANA @ 39TH"
+      }
+    },
+    "address": {
+      "value": "2936 N. 39th St, Phoenix, AZ 85018",
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.1 / p.20",
+        "snippet": "2936 N. 39TH ST | PHOENIX, AZ"
+      }
+    },
+    "propertyType": {
+      "value": "Multifamily \u2014 boutique garden courtyard",
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.1",
+        "snippet": "BOUTIQUE 14 UNIT FULLY RENOVATED"
+      }
+    },
+    "unitCount": {
+      "value": 14,
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.20 PROPERTY INFORMATION",
+        "snippet": "14 NUMBER OF UNITS"
+      }
+    },
+    "yearBuilt": {
+      "value": 1983,
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.20 / p.4",
+        "snippet": "Constructed in 1983"
+      }
+    },
+    "yearRenovated": {
+      "value": 2025,
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.20",
+        "snippet": "1983/2025 YEAR BUILT / RENOVATED"
+      }
+    },
+    "nra": {
+      "value": 9900,
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.20",
+        "snippet": "9,900 NET RENTABLE AREA"
+      }
+    },
+    "listPrice": {
+      "value": 3100000,
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.4 / p.20",
+        "snippet": "$3,100,000 LIST PRICE"
+      }
+    },
+    "pricePerUnit": {
+      "value": 221429,
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.20",
+        "snippet": "$221,429 PRICE PER UNIT"
+      }
+    },
+    "construction": {
+      "value": "Block construction",
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.4",
+        "snippet": "The property features block construction"
+      }
+    },
+    "roof": {
+      "value": "Pitched asphalt shingle roofs",
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.4",
+        "snippet": "pitched asphalt shingle roofs"
+      }
+    },
+    "plumbing": {
+      "value": "Copper plumbing; ABS sewer lines",
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.4",
+        "snippet": "ABS sewer lines, and copper plumbing"
+      }
+    },
+    "electrical": {
+      "value": "Individually metered for electricity",
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.4",
+        "snippet": "Individually metered for electricity"
+      }
+    },
+    "hvac": {
+      "value": null,
+      "placeholder": "HVAC type not stated in broker OM",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.4 property description",
+        "snippet": null
+      }
+    },
+    "neighborhood": {
+      "value": "Citrus Acres \u2014 Arcadia Lite",
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.1 / p.7",
+        "snippet": "COVETED CITRUS ACRES-ARCADIA LITE NEIGHBORHOOD"
+      }
+    }
+  },
+  "rentRoll": {
+    "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+    "asOf": "As of: 08/01/2026",
+    "units": [
+      {
+        "unit": "101",
+        "bdba": "1/1.50",
+        "status": "Current",
+        "sf": 900,
+        "market": 1495.0,
+        "in_place": 1495.0
+      },
+      {
+        "unit": "102",
+        "bdba": "2/2.00",
+        "status": "Current",
+        "sf": 700,
+        "market": 1700.0,
+        "in_place": 1500.0
+      },
+      {
+        "unit": "103",
+        "bdba": "1/1.00",
+        "status": "Current",
+        "sf": 700,
+        "market": 1295.0,
+        "in_place": 1300.0
+      },
+      {
+        "unit": "104",
+        "bdba": "1/1.00",
+        "status": "Current",
+        "sf": 700,
+        "market": 1295.0,
+        "in_place": 1295.0
+      },
+      {
+        "unit": "105",
+        "bdba": "1/1.00",
+        "status": "Current",
+        "sf": 700,
+        "market": 1295.0,
+        "in_place": 1300.0
+      },
+      {
+        "unit": "106",
+        "bdba": "1/1.00",
+        "status": "Vacant-Unrented",
+        "sf": 700,
+        "market": 1295.0,
+        "in_place": null
+      },
+      {
+        "unit": "107",
+        "bdba": "1/1.00",
+        "status": "Current",
+        "sf": 700,
+        "market": 1250.0,
+        "in_place": 1320.0
+      },
+      {
+        "unit": "108",
+        "bdba": "1/1.00",
+        "status": "Current",
+        "sf": 700,
+        "market": 1400.0,
+        "in_place": 1200.0
+      },
+      {
+        "unit": "109",
+        "bdba": "0/1.00",
+        "status": "Current",
+        "sf": 400,
+        "market": 1000.0,
+        "in_place": 900.0
+      },
+      {
+        "unit": "203",
+        "bdba": "1/1.00",
+        "status": "Current",
+        "sf": 700,
+        "market": 1295.0,
+        "in_place": 1300.0
+      },
+      {
+        "unit": "204",
+        "bdba": "1/1.00",
+        "status": "Current",
+        "sf": 700,
+        "market": 1295.0,
+        "in_place": 1300.0
+      },
+      {
+        "unit": "205",
+        "bdba": "1/1.00",
+        "status": "Current",
+        "sf": 700,
+        "market": 1295.0,
+        "in_place": 1300.0
+      },
+      {
+        "unit": "206",
+        "bdba": "1/1.00",
+        "status": "Current",
+        "sf": 700,
+        "market": 1250.0,
+        "in_place": 1250.0
+      },
+      {
+        "unit": "207",
+        "bdba": "2/1.00",
+        "status": "Current",
+        "sf": 900,
+        "market": 1500.0,
+        "in_place": 1500.0
+      }
+    ],
+    "mix": [
+      {
+        "unitType": "Studio",
+        "bdba": "0/1.00",
+        "sf": 400,
+        "count": 1,
+        "occupied": 1,
+        "inPlaceAvg": {
+          "value": 900.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+            "locator": "Sheet1 col H grouped by 0/1.00/400",
+            "snippet": "Average occupied in-place rent, n=1"
+          }
+        },
+        "marketAvg": {
+          "value": 1000.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+            "locator": "Sheet1 col G grouped by 0/1.00/400",
+            "snippet": "Average market rent, n=1"
+          }
+        },
+        "inPlaceTotal": 900.0,
+        "marketTotal": 1000.0
+      },
+      {
+        "unitType": "1 Bed / 1 Bath",
+        "bdba": "1/1.00",
+        "sf": 700,
+        "count": 10,
+        "occupied": 9,
+        "inPlaceAvg": {
+          "value": 1285.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+            "locator": "Sheet1 col H grouped by 1/1.00/700",
+            "snippet": "Average occupied in-place rent, n=9"
+          }
+        },
+        "marketAvg": {
+          "value": 1296.5,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+            "locator": "Sheet1 col G grouped by 1/1.00/700",
+            "snippet": "Average market rent, n=10"
+          }
+        },
+        "inPlaceTotal": 11565.0,
+        "marketTotal": 12965.0
+      },
+      {
+        "unitType": "1 Bed / 1.5 Bath",
+        "bdba": "1/1.50",
+        "sf": 900,
+        "count": 1,
+        "occupied": 1,
+        "inPlaceAvg": {
+          "value": 1495.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+            "locator": "Sheet1 col H grouped by 1/1.50/900",
+            "snippet": "Average occupied in-place rent, n=1"
+          }
+        },
+        "marketAvg": {
+          "value": 1495.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+            "locator": "Sheet1 col G grouped by 1/1.50/900",
+            "snippet": "Average market rent, n=1"
+          }
+        },
+        "inPlaceTotal": 1495.0,
+        "marketTotal": 1495.0
+      },
+      {
+        "unitType": "2 Bed / 1 Bath",
+        "bdba": "2/1.00",
+        "sf": 900,
+        "count": 1,
+        "occupied": 1,
+        "inPlaceAvg": {
+          "value": 1500.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+            "locator": "Sheet1 col H grouped by 2/1.00/900",
+            "snippet": "Average occupied in-place rent, n=1"
+          }
+        },
+        "marketAvg": {
+          "value": 1500.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+            "locator": "Sheet1 col G grouped by 2/1.00/900",
+            "snippet": "Average market rent, n=1"
+          }
+        },
+        "inPlaceTotal": 1500.0,
+        "marketTotal": 1500.0
+      },
+      {
+        "unitType": "2 Bed / 2 Bath",
+        "bdba": "2/2.00",
+        "sf": 700,
+        "count": 1,
+        "occupied": 1,
+        "inPlaceAvg": {
+          "value": 1500.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+            "locator": "Sheet1 col H grouped by 2/2.00/700",
+            "snippet": "Average occupied in-place rent, n=1"
+          }
+        },
+        "marketAvg": {
+          "value": 1700.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+            "locator": "Sheet1 col G grouped by 2/2.00/700",
+            "snippet": "Average market rent, n=1"
+          }
+        },
+        "inPlaceTotal": 1500.0,
+        "marketTotal": 1700.0
+      }
+    ],
+    "unitCount": {
+      "value": 14,
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+        "locator": "count of unit rows",
+        "snippet": "14 unit rows"
+      }
+    },
+    "occupancy": {
+      "value": 0.9286,
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+        "locator": "occupied / 14",
+        "snippet": "92.8% Occupied"
+      }
+    },
+    "totalSf": {
+      "value": 9900,
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+        "locator": "Sheet1!F26",
+        "snippet": "9900"
+      }
+    },
+    "inPlaceGpr": {
+      "value": 16960.0,
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+        "locator": "Sheet1!H26",
+        "snippet": "16960"
+      }
+    },
+    "marketGpr": {
+      "value": 18660.0,
+      "placeholder": null,
+      "source": {
+        "file": "Urbana @ 39th Rent Roll August 2026.xlsx",
+        "locator": "Sheet1!G26",
+        "snippet": "18660"
+      }
+    }
+  },
+  "t12": {
+    "period": "Period Range: Aug 2025 to Jul 2026",
+    "entity": "Urbana Modern Living LLC",
+    "propertyLine": "Properties: Urbana @ 39th - 2936 N 39th St Phoenix, AZ 85018",
+    "basis": "Accounting Basis: Cash",
+    "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+    "lines": [
+      {
+        "label": "Rental income",
+        "role": "income",
+        "value": 179099.33,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N19",
+          "snippet": "Rent Income"
+        }
+      },
+      {
+        "label": "Subsidized / HAP",
+        "role": "income",
+        "value": 14197.0,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N18",
+          "snippet": "Total RENTS"
+        }
+      },
+      {
+        "label": "Other income (fees, pet)",
+        "role": "income",
+        "value": 2055.0,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N27+N20",
+          "snippet": "Total FEES + Pet Rent"
+        }
+      },
+      {
+        "label": "Concessions",
+        "role": "income",
+        "value": -1950.0,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N21",
+          "snippet": "Concessions"
+        }
+      },
+      {
+        "label": "Total operating income",
+        "role": "total",
+        "value": 193401.33,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N29",
+          "snippet": "Total Operating Income"
+        }
+      },
+      {
+        "label": "Marketing",
+        "role": "expense",
+        "value": null,
+        "placeholder": "Not in T12 export \u2014 see Budget Summary promotion line",
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "T12",
+          "snippet": null
+        }
+      },
+      {
+        "label": "Repairs and maintenance",
+        "role": "expense",
+        "value": 5852.15,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N45",
+          "snippet": "Total REPAIRS"
+        }
+      },
+      {
+        "label": "Admin",
+        "role": "expense",
+        "value": null,
+        "placeholder": "Not in T12 export \u2014 see Budget Summary administration line",
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "T12",
+          "snippet": null
+        }
+      },
+      {
+        "label": "Utilities",
+        "role": "expense",
+        "value": 5358.44,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N53",
+          "snippet": "Total UTILITIES"
+        }
+      },
+      {
+        "label": "Contracting (trash)",
+        "role": "expense",
+        "value": 4385.34,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N33",
+          "snippet": "Total Contracting Expenses"
+        }
+      },
+      {
+        "label": "Landscaping",
+        "role": "expense",
+        "value": 1650.0,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N36",
+          "snippet": "Total Landscaping"
+        }
+      },
+      {
+        "label": "Management fees",
+        "role": "expense",
+        "value": 3324.0,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N40",
+          "snippet": "Total MANAGEMENT FEES"
+        }
+      },
+      {
+        "label": "Property taxes and insurance",
+        "role": "expense",
+        "value": 10754.42,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N57",
+          "snippet": "Total PROPERTY TAXES AND INSURANCE"
+        }
+      },
+      {
+        "label": "Total operating expense",
+        "role": "total",
+        "value": 31536.9,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N59",
+          "snippet": "Total Operating Expense"
+        }
+      },
+      {
+        "label": "NOI",
+        "role": "noi",
+        "value": 161864.43,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th, July 2026 T12 (1).xlsx",
+          "locator": "Sheet1!N61",
+          "snippet": "NOI - Net Operating Income"
+        }
+      }
+    ],
+    "categorySum": 31324.35,
+    "reportedExpense": 31536.9,
+    "expenseGap": 212.55,
+    "detail": {
+      "subsidized": 13608.0,
+      "loss_gain": 589.0,
+      "total_rents": 14197.0,
+      "rent_income": 179099.33,
+      "pet_rent": 225.0,
+      "concessions": -1950.0,
+      "fees": 1830.0,
+      "total_income": 193401.33,
+      "contracting": 4385.34,
+      "landscaping": 1650.0,
+      "management": 3324.0,
+      "repairs": 5852.15,
+      "utilities": 5358.44,
+      "tax_ins": 10754.42,
+      "total_expense": 31536.9,
+      "noi": 161864.43,
+      "cleaning": 4482.48,
+      "paint": 800.0,
+      "plumbing_repair": 1185.0,
+      "electric": 2795.24,
+      "water": 2370.82,
+      "tax": 4719.0,
+      "insurance": 6035.42
+    }
+  },
+  "budget": {
+    "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+    "sheet": "Summary",
+    "propertyName": "Urbana @ 39th",
+    "prepared": "2026-06-02 00:00:00",
+    "budgetStart": "2026-08-01 00:00:00",
+    "lines": [
+      {
+        "label": "Net rental income",
+        "historical": {
+          "value": 160309.75,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D11",
+            "snippet": "Net rental income"
+          }
+        },
+        "budget": {
+          "value": 197143.52,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G11",
+            "snippet": "Net rental income"
+          }
+        },
+        "variance": 36833.77
+      },
+      {
+        "label": "Total non-rental income",
+        "historical": {
+          "value": 3205.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D12",
+            "snippet": "Total non-rental income"
+          }
+        },
+        "budget": {
+          "value": 7420.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G12",
+            "snippet": "Total non-rental income"
+          }
+        },
+        "variance": 4215.0
+      },
+      {
+        "label": "Total income",
+        "historical": {
+          "value": 163514.75,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D13",
+            "snippet": "Total income"
+          }
+        },
+        "budget": {
+          "value": 204563.52,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G13",
+            "snippet": "Total income"
+          }
+        },
+        "variance": 41048.77
+      },
+      {
+        "label": "Contract services",
+        "historical": {
+          "value": 4715.35,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D17",
+            "snippet": "Contract services"
+          }
+        },
+        "budget": {
+          "value": 4308.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G17",
+            "snippet": "Contract services"
+          }
+        },
+        "variance": -407.35
+      },
+      {
+        "label": "Repairs and maintenance",
+        "historical": {
+          "value": 1220.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D18",
+            "snippet": "Repairs and maintenance"
+          }
+        },
+        "budget": {
+          "value": 1800.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G18",
+            "snippet": "Repairs and maintenance"
+          }
+        },
+        "variance": 580.0
+      },
+      {
+        "label": "Make ready",
+        "historical": {
+          "value": 4931.22,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D19",
+            "snippet": "Make ready"
+          }
+        },
+        "budget": {
+          "value": 4710.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G19",
+            "snippet": "Make ready"
+          }
+        },
+        "variance": -221.22
+      },
+      {
+        "label": "Labor",
+        "historical": {
+          "value": 0.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D20",
+            "snippet": "Labor"
+          }
+        },
+        "budget": {
+          "value": 2100.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G20",
+            "snippet": "Labor"
+          }
+        },
+        "variance": 2100.0
+      },
+      {
+        "label": "Utilities",
+        "historical": {
+          "value": 7258.96,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D21",
+            "snippet": "Utilities"
+          }
+        },
+        "budget": {
+          "value": 8940.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G21",
+            "snippet": "Utilities"
+          }
+        },
+        "variance": 1681.04
+      },
+      {
+        "label": "Promotion / advertising",
+        "historical": {
+          "value": 2500.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D22",
+            "snippet": "Promotion / advertising"
+          }
+        },
+        "budget": {
+          "value": 3330.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G22",
+            "snippet": "Promotion / advertising"
+          }
+        },
+        "variance": 830.0
+      },
+      {
+        "label": "Administration",
+        "historical": {
+          "value": 0.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D23",
+            "snippet": "Administration"
+          }
+        },
+        "budget": {
+          "value": 2910.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G23",
+            "snippet": "Administration"
+          }
+        },
+        "variance": 2910.0
+      },
+      {
+        "label": "Total controllable expenses",
+        "historical": {
+          "value": 20625.53,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D25",
+            "snippet": "Total controllable expenses"
+          }
+        },
+        "budget": {
+          "value": 28098.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G25",
+            "snippet": "Total controllable expenses"
+          }
+        },
+        "variance": 7472.47
+      },
+      {
+        "label": "Management fees",
+        "historical": {
+          "value": 2400.0,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D28",
+            "snippet": "Management fees"
+          }
+        },
+        "budget": {
+          "value": 9887.18,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G28",
+            "snippet": "Management fees"
+          }
+        },
+        "variance": 7487.18
+      },
+      {
+        "label": "Property tax",
+        "historical": {
+          "value": 5645.44,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D29",
+            "snippet": "Property tax"
+          }
+        },
+        "budget": {
+          "value": 5666.82,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G29",
+            "snippet": "Property tax"
+          }
+        },
+        "variance": 21.38
+      },
+      {
+        "label": "Insurance",
+        "historical": {
+          "value": 7062.36,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D30",
+            "snippet": "Insurance"
+          }
+        },
+        "budget": {
+          "value": 7062.36,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G30",
+            "snippet": "Insurance"
+          }
+        },
+        "variance": 0.0
+      },
+      {
+        "label": "Total uncontrollable expenses",
+        "historical": {
+          "value": 15107.8,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D31",
+            "snippet": "Total uncontrollable expenses"
+          }
+        },
+        "budget": {
+          "value": 22616.36,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G31",
+            "snippet": "Total uncontrollable expenses"
+          }
+        },
+        "variance": 7508.56
+      },
+      {
+        "label": "Total expenses",
+        "historical": {
+          "value": 35733.33,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D33",
+            "snippet": "Total expenses"
+          }
+        },
+        "budget": {
+          "value": 50714.36,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G33",
+            "snippet": "Total expenses"
+          }
+        },
+        "variance": 14981.03
+      },
+      {
+        "label": "Net operating income",
+        "historical": {
+          "value": 127781.42,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D35",
+            "snippet": "Net operating income"
+          }
+        },
+        "budget": {
+          "value": 153849.17,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G35",
+            "snippet": "Net operating income"
+          }
+        },
+        "variance": 26067.75
+      },
+      {
+        "label": "Net income",
+        "historical": {
+          "value": 128950.84,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!D48",
+            "snippet": "Net income"
+          }
+        },
+        "budget": {
+          "value": 153849.17,
+          "placeholder": null,
+          "source": {
+            "file": "Urbana @ 39th Budget 2026 V1 (1).xlsm",
+            "locator": "Summary!G48",
+            "snippet": "Net income"
+          }
+        },
+        "variance": 24898.33
+      }
+    ]
+  },
+  "market": {
+    "bullets": [
+      {
+        "text": "Phoenix employment 2.5 million after adding 20,500 jobs over the last year.",
+        "value": 2500000,
+        "placeholder": null,
+        "source": {
+          "file": "Phoenix_Americas_MarketBeat_Multifamily_Q2_2026.pdf",
+          "locator": "p.1 ECONOMY",
+          "snippet": "employment level of 2.5 million, after adding 20,500 jobs"
+        }
+      },
+      {
+        "text": "Unemployment 4.0% (from 3.8%), below the 4.2% national average and third-lowest among large U.S. metros.",
+        "value": 0.04,
+        "placeholder": null,
+        "source": {
+          "file": "Phoenix_Americas_MarketBeat_Multifamily_Q2_2026.pdf",
+          "locator": "p.1 ECONOMIC INDICATORS",
+          "snippet": "unemployment rate ticked up from 3.8% to 4.0%"
+        }
+      },
+      {
+        "text": "Household growth rate 1.2%. Median household income $97,400, up 3.8% year-over-year.",
+        "value": 0.012,
+        "placeholder": null,
+        "source": {
+          "file": "Phoenix_Americas_MarketBeat_Multifamily_Q2_2026.pdf",
+          "locator": "p.1 Household Growth Rate*",
+          "snippet": "1.2% Phoenix Household Growth Rate"
+        }
+      },
+      {
+        "text": "Population +0.8% YoY, more than double the national average, though decelerating.",
+        "value": 0.008,
+        "placeholder": null,
+        "source": {
+          "file": "Phoenix_Americas_MarketBeat_Multifamily_Q2_2026.pdf",
+          "locator": "p.1",
+          "snippet": "0.8% YOY increase marked a deceleration"
+        }
+      },
+      {
+        "text": "Metro vacancy 11.6% (\u2212100 bps YoY) on record first-half absorption of 12,741 units.",
+        "value": 0.116,
+        "placeholder": null,
+        "source": {
+          "file": "Phoenix_Americas_MarketBeat_Multifamily_Q2_2026.pdf",
+          "locator": "p.1 SUPPLY & DEMAND",
+          "snippet": "compress vacancy by 100 basis points (bps) YOY to 11.6%"
+        }
+      },
+      {
+        "text": "Asking rent $1,592 / unit, flat q/q and 2.3% below Q2 2025; concessions 8.4% of yearly effective rent.",
+        "value": 1592,
+        "placeholder": null,
+        "source": {
+          "file": "Phoenix_Americas_MarketBeat_Multifamily_Q2_2026.pdf",
+          "locator": "p.1 PRICING",
+          "snippet": "average asking rent remaining flat at $1,592 per month"
+        }
+      },
+      {
+        "text": "Citrus Acres / Arcadia Lite is a renovating infill pocket off the Camelback Corridor (~30,000 employees, ~10M SF office/retail).",
+        "value": 30000,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th OM (4).pdf",
+          "locator": "p.7\u2013p.9",
+          "snippet": "Camelback Corridor is home to more than 30,000 employees and nearly 10M SF"
+        }
+      },
+      {
+        "text": "Neighborhood demand is supported by Global Ambassador (opened 2024), Biltmore Fashion Park, and Camelback / Papago recreation.",
+        "value": true,
+        "placeholder": null,
+        "source": {
+          "file": "Urbana @ 39th OM (4).pdf",
+          "locator": "p.7\u2013p.10",
+          "snippet": "Global Ambassador, a 5 Star and Michelin Key Hotel that opened in 2024"
+        }
+      }
+    ],
+    "whyPhoenix": [
+      "Job growth still adding tens of thousands of positions a year, with unemployment under the U.S. average.",
+      "Household formation (1.2%) and income growth (3.8%) are both in the source packet \u2014 no web overlay.",
+      "Record H1 2026 absorption is compressing vacancy even as asking rents stabilize."
+    ]
+  },
+  "photos": [
+    {
+      "src": "/om-photos/urbana_p01_01_1059x819.jpeg",
+      "page": 1,
+      "role": "hero",
+      "kind": "asset",
+      "caption": "Street elevation at dusk",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.1 embedded image",
+        "snippet": "Street elevation at dusk"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p06_14_1035x819.jpeg",
+      "page": 6,
+      "role": "courtyard",
+      "kind": "asset",
+      "caption": "Renovated courtyard, saguaro and gazebo",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.6 embedded image",
+        "snippet": "Renovated courtyard, saguaro and gazebo"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p05_10_819x655.jpeg",
+      "page": 5,
+      "role": "kitchen",
+      "kind": "asset",
+      "caption": "Renovated kitchen \u2014 shaker / quartz / stainless",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.5 embedded image",
+        "snippet": "Renovated kitchen \u2014 shaker / quartz / stainless"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p13_32_1071x818.jpeg",
+      "page": 13,
+      "role": "interior-a",
+      "kind": "asset",
+      "caption": "Living room after interior renovation",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.13 embedded image",
+        "snippet": "Living room after interior renovation"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p13_33_1023x818.jpeg",
+      "page": 13,
+      "role": "interior-b",
+      "kind": "asset",
+      "caption": "Bedroom \u2014 in-unit laundry, plank floors",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.13 embedded image",
+        "snippet": "Bedroom \u2014 in-unit laundry, plank floors"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p14_34_1074x818.jpeg",
+      "page": 14,
+      "role": "interior-c",
+      "kind": "asset",
+      "caption": "Kitchen toward courtyard",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.14 embedded image",
+        "snippet": "Kitchen toward courtyard"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p14_35_1024x818.jpeg",
+      "page": 14,
+      "role": "bath",
+      "kind": "asset",
+      "caption": "Renovated bath",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.14 embedded image",
+        "snippet": "Renovated bath"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p12_30_1336x819.jpeg",
+      "page": 12,
+      "role": "courtyard-day",
+      "kind": "asset",
+      "caption": "Courtyard in daylight",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.12 embedded image",
+        "snippet": "Courtyard in daylight"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p11_29_2115x819.jpeg",
+      "page": 11,
+      "role": "wide-asset",
+      "kind": "asset",
+      "caption": "Property wide",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.11 embedded image",
+        "snippet": "Property wide"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p15_36_2114x819.jpeg",
+      "page": 15,
+      "role": "wide-interior",
+      "kind": "asset",
+      "caption": "Interior wide",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.15 embedded image",
+        "snippet": "Interior wide"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p23_46_2010x779.jpeg",
+      "page": 23,
+      "role": "aerial",
+      "kind": "area",
+      "caption": "Aerial \u2014 Citrus Acres / Arcadia Lite",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.23 embedded image",
+        "snippet": "Aerial \u2014 Citrus Acres / Arcadia Lite"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p24_47_1603x819.jpeg",
+      "page": 24,
+      "role": "context",
+      "kind": "area",
+      "caption": "Neighborhood context",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.24 embedded image",
+        "snippet": "Neighborhood context"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p07_16_673x449.jpeg",
+      "page": 7,
+      "role": "street",
+      "kind": "area",
+      "caption": "Neighborhood street",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.7 embedded image",
+        "snippet": "Neighborhood street"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p03_06_2115x820.jpeg",
+      "page": 3,
+      "role": "cover-wide",
+      "kind": "asset",
+      "caption": "Cover wide",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.3 embedded image",
+        "snippet": "Cover wide"
+      }
+    },
+    {
+      "src": "/om-photos/urbana_p20_45_2017x819.jpeg",
+      "page": 20,
+      "role": "overview",
+      "kind": "asset",
+      "caption": "Property overview spread",
+      "source": {
+        "file": "Urbana @ 39th OM (4).pdf",
+        "locator": "p.20 embedded image",
+        "snippet": "Property overview spread"
+      }
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "occupancy",
+      "severity": "info",
+      "text": "August rent roll occupancy is 92.8% (1 vacant of 14). Broker OM describes a fully renovated lease-up; budget model Assumptions/Rental.Analysis treats 14 units. Deck uses the rent roll."
+    },
+    {
+      "id": "entity-name",
+      "severity": "info",
+      "text": "T12 entity is \u201cUrbana Modern Living LLC\u201d; rent roll header is \u201cUrbana At Fairmount LLC\u201d. Same address."
+    },
+    {
+      "id": "unit-mix",
+      "severity": "warn",
+      "text": "Broker OM p.20 unit mix (patio tags, 2/2 at 900 SF) does not match the August rent roll (2/2 at 700 SF, 1/1.50 at 900 SF). Slide 2 uses the rent roll, per spec."
+    },
+    {
+      "id": "t12-vs-budget-hist",
+      "severity": "warn",
+      "text": "July 2026 T12 NOI is $161,864.43 (Aug 2025\u2013Jul 2026). Budget Summary \u201cHistorical T12\u201d NOI is $127,781.42 \u2014 a different vintage. Slides keep both, labeled."
+    },
+    {
+      "id": "t12-expense-gap",
+      "severity": "info",
+      "text": "Sum of T12 expense category totals is $31,324.35 vs Total Operating Expense N59 $31,536.90 (gap $212.55). Deck prints the Total Operating Expense cell as the total."
+    },
+    {
+      "id": "hvac",
+      "severity": "info",
+      "text": "HVAC system type is not stated in the broker OM. Shown as a placeholder on Slide 1."
+    }
+  ],
+  "slides": [
+    {
+      "id": "asset",
+      "title": "Asset summary",
+      "sources": [
+        "broker OM p.1, p.4, p.20",
+        "photos p.1, p.6"
+      ]
+    },
+    {
+      "id": "rent",
+      "title": "Rent roll",
+      "sources": [
+        "Urbana @ 39th Rent Roll August 2026.xlsx"
+      ]
+    },
+    {
+      "id": "t12",
+      "title": "Income statement",
+      "sources": [
+        "Urbana @ 39th, July 2026 T12 (1).xlsx"
+      ]
+    },
+    {
+      "id": "budget",
+      "title": "Budget",
+      "sources": [
+        "Budget 2026 V1.xlsm!Summary"
+      ]
+    },
+    {
+      "id": "market",
+      "title": "Location and market",
+      "sources": [
+        "OM p.7\u201310",
+        "MarketBeat Q2 2026"
+      ]
+    },
+    {
+      "id": "photos",
+      "title": "Photos",
+      "sources": [
+        "OM embedded images"
+      ]
+    }
+  ],
+  "contentHash": "4d283bf6b16b5d3c",
+  "generatedAt": "2026-09-05T14:01:41.873859+00:00"
+}

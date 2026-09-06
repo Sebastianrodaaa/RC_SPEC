@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="RC">
+  <rect width="32" height="32" fill="#0c0e10"/>
+  <path
+    d="M23.2 7.15a11.4 11.4 0 1 0 0 17.7"
+    fill="none"
+    stroke="#c4a36a"
+    stroke-width="2.15"
+    stroke-linecap="round"/>
+  <path
+    fill="#c4a36a"
+    d="M10.1 8.6h7.05c2.85 0 4.7 1.55 4.7 4.05 0 1.85-1.05 3.2-2.7 3.75L22.6 23.4h-3.05l-3.2-6.35h-3.7V23.4H10.1V8.6zm2.55 2.15v4.55h4.15c1.5 0 2.4-.75 2.4-2.25s-.9-2.3-2.4-2.3h-4.15z"/>
+</svg>
