@@ -1,5 +1,7 @@
-node_modules/
-.project_id
-.github_repo
-.env
-.env.*
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+out/
+work/
